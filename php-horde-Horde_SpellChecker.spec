@@ -3,12 +3,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Spellcheck API
 Name:		php-horde-Horde_SpellChecker
-Version:	1.0.0
+Version:	1.0.1
 Release:	1
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	8898ba21dd81e39efd94d72ce76080b5
+# Source0-md5:	591b837d0785eb4d7c7da591a10e2ecc
 URL:		https://github.com/horde/horde/tree/master/framework/SpellChecker/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
