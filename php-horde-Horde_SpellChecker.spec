@@ -1,6 +1,5 @@
 %define		status		stable
 %define		pearname	Horde_SpellChecker
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Spellcheck API
 Name:		php-horde-Horde_SpellChecker
 Version:	1.0.1
